@@ -144,7 +144,6 @@ From the day one official idea and concept of Facebook was being a tool to conne
 #### Feature value and objective
 
 <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2" alt="drawing" />
-<!-- ![](https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2) -->
 
 #### How does it work?
 
@@ -158,14 +157,11 @@ As a user of social network Facebook you can take part in public communication b
     
 | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2" alt="drawing" width="300"/> | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2" alt="drawing" width="300"/> |
 
-<!-- ![fdgdg](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2) -->
+
 
 *   comments under post in news feed
     
 | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.58.05.jpeg?api=v2" alt="drawing" width="300"/> | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.00.jpeg?api=v2" alt="drawing" width="300"/> |
-<!-- ![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.58.05.jpeg?api=v2)
-
-![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.00.jpeg?api=v2) -->
 
 ##### Web browser
 
@@ -193,7 +189,7 @@ The moderator who is interested in activity on the page sees it and makes a cont
 
 |     |     |
 | --- | --- |
-| ### Functional requirements | ### Non-Functional Requirement |
+| **Functional requirements** | **Non-Functional Requirement** |
 | User can click on the comment button and input | Comment button and input should be visible |
 | User can enter text and symbols to the input | Validation required |
 | User can send a comment by pressing Enter(Web) or Send Button(Mobile) | The comment is immediately visible in comment input |
@@ -209,24 +205,24 @@ The moderator who is interested in activity on the page sees it and makes a cont
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| ### Epic | ### As a | ### I want to.. | ### So that.. |
+| **Epic** | **As a** | **I want to..** | **So that** |
 | Comment action | Mobile user/Web user | Leave a comment on the post in the news feed | I can share my reaction or opinion |
-| Mobile user/Web user | Leave a comment on the photo in the news feed | I can share my reaction or opinion |
-| Mobile user/Web user | Leave a comment on the video in the news feed | I can share my reaction or opinion |
-| Mobile user/Web user | Leave a comment on the post on users page | I can share my reaction or opinion |
-| Mobile user/Web user | Leave a comment on the photo in users photos | I can share my reaction or opinion |
-| Mobile user/Web user | Leave a comment on the video in users videos | I can share my reaction or opinion |
-| Mobile user/Web user | Leave a comment on the live stream video | I can share my reaction or opinion |
+|| Mobile user/Web user | Leave a comment on the photo in the news feed | I can share my reaction or opinion |
+|| Mobile user/Web user | Leave a comment on the video in the news feed | I can share my reaction or opinion |
+|| Mobile user/Web user | Leave a comment on the post on users page | I can share my reaction or opinion |
+|| Mobile user/Web user | Leave a comment on the photo in users photos | I can share my reaction or opinion |
+|| Mobile user/Web user | Leave a comment on the video in users videos | I can share my reaction or opinion |
+|| Mobile user/Web user | Leave a comment on the live stream video | I can share my reaction or opinion |
 | Reply action | Mobile user/Web user | Reply to a comment on the post in the news feed | I can share my reaction or opinion with specific user |
-| Mobile user/Web user | Reply to a comment on the photo in the news feed | I can share my reaction or opinion with specific user |
-| Mobile user/Web user | Reply to a comment on the video in the news feed | I can share my reaction or opinion with specific user |
-| Mobile user/Web use | Reply to a comment on the post on users page | I can share my reaction or opinion with specific user |
-| Mobile user/Web use | Reply to a comment on the photo in users photos | I can share my reaction or opinion with specific user |
-| Mobile user/Web use | Reply to a comment on the video in users videos | I can share my reaction or opinion with specific user |
-| Mobile user/Web use | Reply to a comment on the live stream video | I can share my reaction or opinion and do it in dynamic context of stream |
+|| Mobile user/Web user | Reply to a comment on the photo in the news feed | I can share my reaction or opinion with specific user |
+|| Mobile user/Web user | Reply to a comment on the video in the news feed | I can share my reaction or opinion with specific user |
+|| Mobile user/Web use | Reply to a comment on the post on users page | I can share my reaction or opinion with specific user |
+|| Mobile user/Web use | Reply to a comment on the photo in users photos | I can share my reaction or opinion with specific user |
+|| Mobile user/Web use | Reply to a comment on the video in users videos | I can share my reaction or opinion with specific user |
+|| Mobile user/Web use | Reply to a comment on the live stream video | I can share my reaction or opinion and do it in dynamic context of stream |
 | Attachments to the comments | Mobile user | Attach photo using my phone camera, not leaving comment section | i can give an instant visual reaction not leaving the app |
-| Mobile user/Web user | Attach photo to the comment from my gallery | i can give visual reaction not leaving the app |
-| Mobile user/Web user | attach emoji to the comment | i can give visual reaction |
-| Mobile user/Web user | attach stickers to the comment | i can give visual reaction |
-| Mobile user/Web user | attach GIFs to the comment | i can give visual reaction |
-| Mobile user/Web user | tag other user or page | so that tagged user or group could know about this comment |
+|| Mobile user/Web user | Attach photo to the comment from my gallery | i can give visual reaction not leaving the app |
+|| Mobile user/Web user | attach emoji to the comment | i can give visual reaction |
+|| Mobile user/Web user | attach stickers to the comment | i can give visual reaction |
+|| Mobile user/Web user | attach GIFs to the comment | i can give visual reaction |
+|| Mobile user/Web user | tag other user or page | so that tagged user or group could know about this comment |
