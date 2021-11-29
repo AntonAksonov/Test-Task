@@ -16,7 +16,7 @@ Test task objective
 > *   For all controversial questions create a list of open questions
    
 
-Business requirements document template
+1.Business requirements document template
 ---------------------------------------
 
 ### Objectives of a business requirement document
@@ -36,29 +36,17 @@ The main BRD components
 -----------------------
 
 *   Executive summary
-    
 *   Project overview and objectives
-    
 *   Business requirements
-    
 *   Project Solution
-    
 *   Scope
-    
 *   Features
-    
 *   Functional and Non-Functional requirements
-    
 *   Personnel requirements
-    
 *   Assumptions
-    
 *   Quality assurance and reporting
-    
 *   Delivery schedule
-    
 *   Risks
-    
 *   Glossary of Terms
     
 
@@ -118,7 +106,8 @@ Every project has inherent risks that may cause delay or even failure of a proje
 
 Add a glossary if there are a lot of technical terms that need defining to add clarity to the document. 
 
-Feature specification document
+
+2.Feature specification document
 ==============================
 
 **Features specification** is a part of a PRD(Product requirement document).
@@ -168,8 +157,8 @@ As a user of social network Facebook you can take part in public communication b
 
 *   comments under photo on user page
     
-
-![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2)
+<img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2" alt="drawing" width="200"/>
+<!-- ![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2) -->
 
 ![fdgdg](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2)
 
