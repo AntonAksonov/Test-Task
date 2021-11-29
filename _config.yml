@@ -11,3 +11,6 @@ social-share: true
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+search: true
+sidebars:
+  - Table of contents
