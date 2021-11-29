@@ -168,12 +168,12 @@ As a user of social network Facebook you can take part in public communication b
 *   comments under photo on user page
     
 
-![](https://github.com/AntonAksonov/Test-Task-for-Techincal-Writer/blob/gh-pages/photo_2021-11-28%2009.57.49.jpeg)
+![img](https://github.com/AntonAksonov/Test-Task-for-Techincal-Writer/blob/gh-pages/photo_2021-11-28%2009.57.49.jpeg)
 
 *   comments under video on user page
     
 
-![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.57.51.jpeg?api=v2)
+![img](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.57.51.jpeg?api=v2)
 
 #### User scenarios
 
