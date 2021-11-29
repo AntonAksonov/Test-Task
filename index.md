@@ -143,7 +143,7 @@ From the day one official idea and concept of Facebook was being a tool to conne
 
 #### Feature value and objective
 
-<img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2" alt="drawing" width=100%/>
+<img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2" alt="drawing" />
 <!-- ![](https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2) -->
 
 #### How does it work?
@@ -152,22 +152,22 @@ As a user of social network Facebook you can take part in public communication b
 
 #### Mockups:
 
-#### Mobile app
+##### Mobile app
 
 *   comments under photo on user page
     
-| <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2" alt="drawing" width="222"/> | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2" alt="drawing" width="222"/> |
+| <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2" alt="drawing" width="300"/> | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2" alt="drawing" width="300"/> |
 
 <!-- ![fdgdg](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2) -->
 
 *   comments under post in news feed
     
+| <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.58.05.jpeg?api=v2" alt="drawing" width="300"/> | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.00.jpeg?api=v2" alt="drawing" width="300"/> |
+<!-- ![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.58.05.jpeg?api=v2)
 
-![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.58.05.jpeg?api=v2)
+![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.00.jpeg?api=v2) -->
 
-![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.00.jpeg?api=v2)
-
-#### Web browser
+##### Web browser
 
 *   comments under photo on user page
     
