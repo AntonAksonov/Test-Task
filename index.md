@@ -1,4 +1,10 @@
-Test task objective
+# Table of contents
+   [Test task objective](#task)
+1. [Business requirement document (BRD) tamplate](#brd)
+2. [Feature specification document:Facebook Commenting feature](#feature)
+
+   
+Test task objective <a name="task"></a>
 ===================
 
 1.  Describe a perfect BRD template, that you consider to be the most flexible and reference
@@ -16,7 +22,7 @@ Test task objective
 > *   For all controversial questions create a list of open questions
    
 
-1.Business requirements document template
+1.Business requirements document template <a name="brd"></a>
 ---------------------------------------
 
 ### Objectives of a business requirement document
@@ -107,7 +113,7 @@ Every project has inherent risks that may cause delay or even failure of a proje
 Add a glossary if there are a lot of technical terms that need defining to add clarity to the document. 
 
 
-2.Feature specification document
+2.Feature specification document  <a name="feature"></a>
 ==============================
 
 **Features specification** is a part of a PRD(Product requirement document).
