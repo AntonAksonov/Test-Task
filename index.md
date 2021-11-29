@@ -1,7 +1,7 @@
 # Table of contents
   [Test task objective](#task)
-1.[Business requirement document (BRD) tamplate](#brd)
-2.[Feature specification document:Facebook Commenting feature](#feature)
+1. [Business requirement document (BRD) tamplate](#brd)
+2. [Feature specification document:Facebook Commenting feature](#feature)
 
    
 Test task objective <a name="task"></a>
@@ -116,11 +116,11 @@ Add a glossary if there are a lot of technical terms that need defining to add c
 2.Feature specification document  <a name="feature"></a>
 ==============================
 
-**Features specification** is a part of a PRD(Product requirement document).
-
-**Product requirement document** defines the purpose of the product or particular functionality — including details on what you are building and the value it provides.
-
-**Feature specification** is a written description of a feature of a system. A feature of a system is user-visible aspect of the system that provides the user some benefit. 
+> [**Features specification**](https://en.wikipedia.org/wiki/Functional_specification) is a part of a [PRD(Product requirement document)](https://en.wikipedia.org/wiki/Product_requirements_document)
+>
+> **Product requirement document** defines the purpose of the product or particular functionality — including details on what you are building and the value it provides.
+>
+> **Feature specification** is a written description of a feature of a system. A feature of a system is user-visible > >  > aspect of the system that provides the user some benefit. 
 
 #### Main components of Feature specification
 
@@ -135,7 +135,7 @@ Add a glossary if there are a lot of technical terms that need defining to add c
 *   Metrics
     
 
-### Feature specification document: Facebook Comments Feature
+### Feature specification document: [Facebook](https://www.facebook.com/) Comments Feature
 
 #### Background
 
@@ -143,7 +143,8 @@ From the day one official idea and concept of Facebook was being a tool to conne
 
 #### Feature value and objective
 
-![](https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2)
+<img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2" alt="drawing" width=100%/>
+<!-- ![](https://aksonov.atlassian.net/wiki/download/attachments/33043/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org%20(1)-20211129-131303.png?api=v2) -->
 
 #### How does it work?
 
