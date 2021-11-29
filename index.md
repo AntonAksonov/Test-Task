@@ -1,7 +1,7 @@
 # Table of contents
-    [Test task objective](#task)
-1. [Business requirement document (BRD) tamplate](#brd)
-2. [Feature specification document:Facebook Commenting feature](#feature)
+[Test task objective](#task)
+1.[Business requirement document (BRD) tamplate](#brd)
+2.[Feature specification document:Facebook Commenting feature](#feature)
 
    
 Test task objective <a name="task"></a>
@@ -125,21 +125,13 @@ Add a glossary if there are a lot of technical terms that need defining to add c
 #### Main components of Feature specification
 
 *   Background
-    
 *   Feature value and objective
-    
 *   Value proposition diagram
-    
 *   How does it work?
-    
 *   Mockups
-    
 *   User scenarios
-    
 *   Functional and Non-Functional requirements
-    
 *   User Stories
-    
 *   Metrics
     
 
@@ -163,10 +155,9 @@ As a user of social network Facebook you can take part in public communication b
 
 *   comments under photo on user page
     
-<img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2" alt="drawing" width="200"/>
-<!-- ![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2) -->
+| <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.05.jpeg?api=v2" alt="drawing" width="222"/> | <img src="https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2" alt="drawing" width="222"/> |
 
-![fdgdg](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2)
+<!-- ![fdgdg](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2010.08.04.jpeg?api=v2) -->
 
 *   comments under post in news feed
     
