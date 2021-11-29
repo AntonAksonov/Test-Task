@@ -14,12 +14,12 @@ Test task objective <a name="task"></a>
 
 > What will be paid attention to when checking the assignment?
 
-> *   How much do you own "Helicopter view"   
-> *   A clear description of the purpose of the feature / project
-> *   Elaboration of functional-non-functional requirements
-> *   The quality of the written scenarios
-> *   Description of the fake API, as a technical part of BRD will be a plus
-> *   For all controversial questions create a list of open questions
+>   How much do you own "Helicopter view"   
+>   A clear description of the purpose of the feature / project
+>   Elaboration of functional-non-functional requirements
+>   The quality of the written scenarios
+>   Description of the fake API, as a technical part of BRD will be a plus
+>   For all controversial questions create a list of open questions
    
 
 1.Business requirements document template <a name="brd"></a>
@@ -168,7 +168,7 @@ As a user of social network Facebook you can take part in public communication b
 *   comments under photo on user page
     
 
-![](https://aksonov.atlassian.net/wiki/download/attachments/33043/photo_2021-11-28%2009.57.49.jpeg?api=v2)
+![](https://github.com/AntonAksonov/Test-Task-for-Techincal-Writer/blob/gh-pages/photo_2021-11-28%2009.57.49.jpeg)
 
 *   comments under video on user page
     
