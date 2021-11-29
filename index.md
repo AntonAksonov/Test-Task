@@ -8,25 +8,20 @@ Test task objective
 
 > What will be paid attention to when checking the assignment?
 
-> *   How much do you own "Helicopter view"
-    
+> *   How much do you own "Helicopter view"   
 > *   A clear description of the purpose of the feature / project
-    
 > *   Elaboration of functional-non-functional requirements
-    
 > *   The quality of the written scenarios
-    
 > *   Description of the fake API, as a technical part of BRD will be a plus
-    
 > *   For all controversial questions create a list of open questions
-    
+   
 
 Business requirements document template
 ---------------------------------------
 
 ### Objectives of a business requirement document
 
-A business requirements document (BRD) is a formal document that contains goals and expectations of an organisation aims to achieve by partnering with a vendor to complete a specific project.
+A [business requirements document (BRD)](https://en.wikipedia.org/wiki/Business_requirements#Business_requirements_topics) is a formal document that contains goals and expectations of an organisation aims to achieve by partnering with a vendor to complete a specific project.
 
 *   Communicate to the technology server provider, the business needs, the customer needs, and what the solution needs to do to satisfy vendor and customer needs
     
