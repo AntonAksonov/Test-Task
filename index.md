@@ -2,6 +2,8 @@
 
 Test task objective
 ===================
+![](https://github.com/AntonAksonov/test_task/blob/gh-pages/photo_2021-11-28%2009.57.49.jpeg)
+
 
 1.  Describe a perfect BRD template, that you consider to be the most flexible and reference
 
