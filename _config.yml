@@ -1,5 +1,6 @@
+search: true
 theme: jekyll-theme-slate
-title: Your awesome title
+title: Test Task 
 author: Some Person
 avatar: "https://github.com/AntonAksonov/Test-Task-for-Techincal-Writer/blob/gh-pages/photo_2021-10-27%2014.28.13.jpeg"
 
@@ -8,9 +9,5 @@ round-avatar: true
 
 date_format: "%B %-d, %Y"
 social-share: true
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-search: true
-sidebars:
-  - Table of contents
+
+
