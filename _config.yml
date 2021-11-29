@@ -1,2 +1,13 @@
 theme: jekyll-theme-slate
 title: Your awesome title
+author: Some Person
+avatar: "https://github.com/AntonAksonov/Test-Task-for-Techincal-Writer/blob/gh-pages/photo_2021-10-27%2014.28.13.jpeg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+date_format: "%B %-d, %Y"
+social-share: true
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
