@@ -6,19 +6,19 @@ Test task objective
 2.  Based on the described BRD template, describe the ‘Comments’ feature in Facebook
     
 
-What will be paid attention to when checking the assignment?
+> What will be paid attention to when checking the assignment?
 
-*   How much do you own "Helicopter view"
+> *   How much do you own "Helicopter view"
     
-*   A clear description of the purpose of the feature / project
+> *   A clear description of the purpose of the feature / project
     
-*   Elaboration of functional-non-functional requirements
+> *   Elaboration of functional-non-functional requirements
     
-*   The quality of the written scenarios
+> *   The quality of the written scenarios
     
-*   Description of the fake API, as a technical part of BRD will be a plus
+> *   Description of the fake API, as a technical part of BRD will be a plus
     
-*   For all controversial questions create a list of open questions
+> *   For all controversial questions create a list of open questions
     
 
 Business requirements document template
@@ -207,7 +207,7 @@ Jack bought a ticket for upcoming concert of the band he’ve been a fan of for 
 
 The moderator who is interested in activity on the page sees it and makes a context to get a free ticket for being the most active fan. Surely Jack wins the ticket and takes his friend to the concert for free.
 
-#### Functional/non-functional requirements
+### Functional/non-functional requirements
 
 |     |     |
 | --- | --- |
