@@ -116,9 +116,10 @@ Add a glossary if there are a lot of technical terms that need defining to add c
 2.Feature specification document  <a name="feature"></a>
 ==============================
 
-> [**Features specification**](https://en.wikipedia.org/wiki/Functional_specification) is a part of a [PRD(Product requirement document)](https://en.wikipedia.org/wiki/Product_requirements_document)
->
-> **Product requirement document** defines the purpose of the product or particular functionality — including details on what you are building and the value it provides.
+> [**Features specification**](https://en.wikipedia.org/wiki/Functional_specification) is a part of a BRD
+<!-- > [PRD(Product requirement document)](https://en.wikipedia.org/wiki/Product_requirements_document) -->
+<!-- >
+> **Product requirement document** defines the purpose of the product or particular functionality — including details on what you are building and the value it provides. -->
 >
 > **Feature specification** is a written description of a feature of a system. A feature of a system is user-visible > >  > aspect of the system that provides the user some benefit. 
 
