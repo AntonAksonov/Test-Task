@@ -143,7 +143,7 @@ From the day one official idea and concept of Facebook was being a tool to conne
 
 #### Feature value and objective
 
-<img src="docs/assets/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org (1).png" alt="drawing" width="100%" />
+<img src="docs/assets/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org (1).png" alt="drawing" />
 
 #### How does it work?
 
@@ -181,9 +181,7 @@ As a user of social network Facebook you can take part in public communication b
 
 * Max is a support manager for a booking agency were Ann is working. He helps with all the questions and problems that customers have. They can send questions by email, call by the phone, write a personal massage to a Facebook page, or leave the comment under the post they have questions about. The last one is especially helpful for Max because he can reply publicly to customers comments so that other customers with the same questions can see it.
 
-* Jack bought a ticket for upcoming concert of the band he’ve been a fan of for a long time. The band is brought to the city by the booking agency were Ann and Max are working. Jack knows that the agency has an active facebook page so he goes to check it out. There he sees the post about event he’ve bought a ticket to and starts to interact with other people in the comments showing that he’s happy and looking forward to go there. He send photos of himself with the band in other city, use funny stickers and communicates actively.
-
-The moderator who is interested in activity on the page sees it and makes a context to get a free ticket for being the most active fan. Surely Jack wins the ticket and takes his friend to the concert for free.
+* Jack bought a ticket for upcoming concert of the band he’ve been a fan of for a long time. The band is brought to the city by the booking agency were Ann and Max are working. Jack knows that the agency has an active facebook page so he goes to check it out. There he sees the post about event he’ve bought a ticket to and starts to interact with other people in the comments showing that he’s happy and looking forward to go there. He send photos of himself with the band in other city, use funny stickers and communicates actively. The moderator who is interested in activity on the page sees it and makes a context to get a free ticket for being the most active fan. Surely Jack wins the ticket and takes his friend to the concert for free.
 
 ### Functional/non-functional requirements
 
