@@ -183,7 +183,7 @@ As a user of social network Facebook you can take part in public communication b
 
 * Jack bought a ticket for upcoming concert of the band he’ve been a fan of for a long time. The band is brought to the city by the booking agency were Ann and Max are working. Jack knows that the agency has an active facebook page so he goes to check it out. There he sees the post about event he’ve bought a ticket to and starts to interact with other people in the comments showing that he’s happy and looking forward to go there. He send photos of himself with the band in other city, use funny stickers and communicates actively. The moderator who is interested in activity on the page sees it and makes a context to get a free ticket for being the most active fan. Surely Jack wins the ticket and takes his friend to the concert for free.
 
-### Functional/non-functional requirements
+### Functional / Non-Functional requirements
 
 |     |     |
 | --- | --- |
