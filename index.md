@@ -143,7 +143,7 @@ From the day one official idea and concept of Facebook was being a tool to conne
 
 #### Feature value and objective
 
-<img src="docs/assets/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org (1).png" alt="drawing" />
+<img src="docs/assets/value.png" alt="drawing" />
 
 #### How does it work?
 
