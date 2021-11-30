@@ -121,7 +121,7 @@ Add a glossary if there are a lot of technical terms that need defining to add c
 <!-- >
 > **Product requirement document** defines the purpose of the product or particular functionality — including details on what you are building and the value it provides. -->
 >
-> **Feature specification** is a written description of a feature of a system. A feature of a system is user-visible > >  > aspect of the system that provides the user some benefit. 
+> **Feature specification** is a written description of a feature of a system. A feature of a system is user-visible aspect of the system that provides the user some benefit. 
 
 #### Main components of Feature specification
 
