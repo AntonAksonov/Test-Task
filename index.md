@@ -58,39 +58,45 @@ The main BRD components
 
 ### Executive summary
 
-Executive summary indicates the purpose and content of the rest of the document. It describes the main goal of the project, the issue its facing, and has few words about how great was client’s decision to choose your company
+The executive summary indicates the purpose and content of the rest of the document. It describes the project's primary goal, the issue it is facing and has a few words about how great the client's decision to choose your company was.
+
 
 ### Project overview and objectives
 
-In this section, you’ll go into detail about the project. You should consider including overall goals for the project, a description of what the project will accomplish, background of the project, business drivers that make this project important(operational, market, environmental, financial) and description of current and proposed process(better using visualisation)
+In this section, you'll go into detail about the project. It would be best if you considered including overall goals for the project, a description of what the project will accomplish, the background of the project, business drivers that make this project necessary (operational, market, environmental, financial), and a description of the current and proposed process(better-using visualization)
+
 
 ### Business requirements
 
-Here is where you’ll cover your goals in greater detail. Description has to be specific, measurable, actionable, realistic, and time-bound(SMART). Consider your priorities. For example, designate each of your requirements as critical, high priority, medium priority, low priority or a future requirement.
+Here is where you'll cover your goals in greater detail. The description has to be specific, measurable, actionable, realistic, and time-bound (SMART). Consider your priorities. For example, designate your requirements as critical, high priority, medium priority, low priority, or a future requirement.
+
 
 ### Project Solution
 
-Description of what new solution brings to client business and overall strategy. What are the next objectives that should occur upon the full implementation of the project
+Description of what new solution brings to client business and overall strategy. What are the following objectives that should occur upon the full implementation of the project?
 
 ### Scope
 
-The project scope is one of the most important sections in your BRD. This will explain what your organisation is responsible for and what your vendor is responsible for. Good to be as detailed as possible, and don’t make any assumptions. 
+The project scope is one of the most critical sections in your BRD. It explains what your organization and vendor are responsible for. Good to be as detailed as possible and don't make any assumptions. 
+
 
 ### Features
 
-The list of features that company will introduce upon completion of the project. Including brief description of what it should give to the user, for every specific feature
+The list of features that the company will introduce upon completion of the project. Including a brief description of what it should give to the user for every specific feature.
+
 
 ### Functional requirements
 
-The Functional requirements section is where to put more details about the structure behind what the user of the end product or service sees. You may add appropriate subsections, data flow diagrams and flowcharts Describe methodology framework(Agile, Waterfall, Scrum, Kanban). Provide a visualisation of system use cases with text description of what changes put in place by project.  
+The Functional requirements section is where to put more details about the structure behind what the user of the end product or service sees. You may add appropriate subsections, data flow diagrams, and flowcharts. Describe methodology framework (Agile, Waterfall, Scrum, Kanban). Provide a visualization of system use cases with a text description of what changes were put in place by the project.  
 
 ### Personnel requirements
 
-For some business projects, the identity of personnel is just as critical as any other requirements. Include enough detail to address those needs in the context of the rest of the project and any potential impacts on the project budget.
+For some business projects, the identity of personnel is just as critical as any other requirements. Therefore, include enough detail to address those needs in the context of the rest of the project and any potential impacts on the project budget.
+
 
 ### Assumptions
 
-The assumptions outline anticipated events that would occur during the course of the project.
+The assumptions outline anticipated events that would occur during the project.
 
 ### Quality assurance and reporting
 
@@ -106,7 +112,9 @@ This section holds a detailed list of all the costs involved in the project alon
 
 ### Risks
 
-Every project has inherent risks that may cause delay or even failure of a project. Description any risks that might arise with the technology used to build or support the project. Description of any risks that might arise regarding the skills necessary to deliver the project. Description of any risks that might arise because of internal business environment forces or those caused by changes at the local, state or country. Description of any risks to the company that could occur if the project ends up getting canceled or delayed. Description of any risks that could arise because of issues with the requirements. For example, what could happen to the project timeline if you discovered that a section of the requirements was incomplete.
+Every project has inherent risks that may cause delay or even failure of a project. 
+Describe any risks that might arise with the technology used to build or support the project. Description of any risks that might arise regarding the skills necessary to deliver the project. Description of any risks arising from internal business environment forces or those caused by local, state, or country changes. Description of any risks to the company if the project ends up getting canceled or delayed. Description of any risks that could arise because of issues with the requirements. For example, what could happen to the project timeline if you discovered that a section of the requirements was incomplete.
+
 
 ### Glossary of Terms
 
@@ -128,7 +136,7 @@ Add a glossary if there are a lot of technical terms that need defining to add c
 *   Background
 *   Feature value and objective
 *   Value proposition diagram
-*   How does it work?
+*   How it works
 *   Mockups
 *   User scenarios
 *   Functional and Non-Functional requirements
@@ -140,49 +148,53 @@ Add a glossary if there are a lot of technical terms that need defining to add c
 
 #### Background
 
-From the day one official idea and concept of Facebook was being a tool to connect people, their families and their friends. Therefore for Facebook brand and business, comments are great communication instrument to develop. Another reason is opportunity for bigger amount of people to communicate publicly. This tool opens up possibility to spread interesting facts, knowledge or news among bigger amount of people and do it much faster than it is by using only private massages or posts.
+From day one, Facebook's main idea and concept is a tool to connect people, their families, and friends. Therefore for Facebook's brand and business, comments are a great communication instrument to develop. Another reason is an opportunity for a more significant amount of people to communicate publicly. Therefore, this tool opens up the possibility of spreading exciting facts, knowledge, or news among many people and doing it much faster than using only private messages or posts.
+
 
 #### Feature value and objective
 
 <img src="docs/assets/value.png" alt="drawing" />
 
-#### How does it work?
+#### How it works
 
-As a user of social network Facebook you can take part in public communication by leaving a comment under your own or someone’s post, photo, video or live video stream. You can use additional features like attaching photo, stickers, GIFs or emojis to your own comment or send a reaction to someone else’s comment
+As a user of the social network Facebook you can take part in public communication by leaving a comment under your own or someone's post, photo, video, or live video stream. In addition, you can use additional features like attaching pictures, stickers, GIFs, or emojis to your comment or send a reaction to someone else's comment.
+
 
 #### Mockups:
 
 ##### Mobile app
 
-*   comments under photo on user page
+*   comments under the photo on a user page
     
 | <img src="docs/assets/photo_2021-11-28 10.08.05 (1).jpeg" alt="drawing" width="300"/> | <img src="docs/assets/photo_2021-11-28 10.08.04.jpeg" alt="drawing" width="300"/> |
 
 
 
-*   comments under post in news feed
+*   comments under the post in a news feed
     
 | <img src="docs/assets/photo_2021-11-28 09.57.57.jpeg" alt="drawing" width="300"/> | <img src="docs/assets/photo_2021-11-28 10.08.00.jpeg" alt="drawing" width="300"/> |
 
 ##### Web browser
 
-*   comments under photo on user page
+*   comments under the photo on a user page
     
 
 ![img](docs/assets/photo_2021-11-28 09.57.49.jpeg)
 
-*   comments under video on user page
+*   comments under the video on a user page
     
 
 ![img](docs/assets/photo_2021-11-28 09.57.51.jpeg)
 
 #### User scenarios
 
-* Ann is a content manager for a booking agency. Every time there is a new event coming on she makes a post about it including specific details like date, venue, prices, maybe some limitations on the entrance. Usually there’s a lot of questions and reactions in the comments of the post. They contain everything from emotional reactions about upcoming event to organisational questions about place, tickets or date. As a content manager Ann can use this questions in next posts functional requirement, make them clearer and do her job better.
+* Ann is a content manager for a booking agency. Every time there is a new event coming on, she posts about it, including specific details like date, venue, prices, and maybe some limitations on the entrance. Usually, there's a lot of questions and reactions in the comments under the post. They contain everything from emotional reactions about an upcoming event to organizational questions about the place, tickets, or date. As a content manager, Ann can use these questions in the following posts as a functional requirement, make them more straightforward and do her job better.
 
-* Max is a support manager for a booking agency were Ann is working. He helps with all the questions and problems that customers have. They can send questions by email, call by the phone, write a personal massage to a Facebook page, or leave the comment under the post they have questions about. The last one is especially helpful for Max because he can reply publicly to customers comments so that other customers with the same questions can see it.
 
-* Jack bought a ticket for upcoming concert of the band he’ve been a fan of for a long time. The band is brought to the city by the booking agency were Ann and Max are working. Jack knows that the agency has an active facebook page so he goes to check it out. There he sees the post about event he’ve bought a ticket to and starts to interact with other people in the comments showing that he’s happy and looking forward to go there. He send photos of himself with the band in other city, use funny stickers and communicates actively. The moderator who is interested in activity on the page sees it and makes a context to get a free ticket for being the most active fan. Surely Jack wins the ticket and takes his friend to the concert for free.
+* Max is a customer support manager for a booking agency where Ann is working. He helps with all the questions and problems that customers have. They can send questions by email, call by phone, write a personal message to a Facebook page, or leave a comment under the post. The last one is beneficial for Max because he can reply publicly to customers' comments so that other customers with the same questions can see it.
+
+* Jack bought a ticket for the band's upcoming concert he's been a fan of for a long time. The band is brought to the city by the booking agency where Ann and Max are working. Jack knows that the agency has an active Facebook page, so he goes to check it out. He sees the post about the event he's bought a ticket to and starts interacting with other people in the comments, showing that he's happy and looking forward to going there. He sends photos of himself with the band in another city, uses funny stickers, and communicates actively. The moderator interested in the activity on the page sees it and makes a context to get a free ticket for being the most active fan. Surely Jack wins the ticket and takes his friend to the concert for free.
+
 
 ### Functional / Non-Functional requirements
 
