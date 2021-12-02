@@ -14,12 +14,12 @@ Test task objective <a name="task"></a>
 
 > What will be paid attention to when checking the assignment?
 
->   How much do you own "Helicopter view"   
->   A clear description of the purpose of the feature / project
->   Elaboration of functional-non-functional requirements
->   The quality of the written scenarios
->   Description of the fake API, as a technical part of BRD will be a plus
->   For all controversial questions create a list of open questions
+>   * How much do you own "Helicopter view"   
+>   * A clear description of the purpose of the feature / project
+>   * Elaboration of functional-non-functional requirements
+>   * The quality of the written scenarios
+>   * Description of the fake API, as a technical part of BRD will be a plus
+>   * For all controversial questions create a list of open questions
    
 
 1.Business requirements document template <a name="brd"></a>
@@ -237,3 +237,8 @@ As a user of the social network Facebook you can take part in public communicati
 || Mobile user/Web user | attach stickers to the comment | i can give visual reaction |
 || Mobile user/Web user | attach GIFs to the comment | i can give visual reaction |
 || Mobile user/Web user | tag other user or page | so that tagged user or group could know about this comment |
+
+### Questions
+
+* Is it meant that all User stories 'So thats' should be unique? 
+
